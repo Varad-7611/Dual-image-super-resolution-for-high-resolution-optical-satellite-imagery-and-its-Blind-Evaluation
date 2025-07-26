@@ -30,16 +30,6 @@ This project focuses on enhancing the resolution of satellite imagery by using t
 
 ---
 
-## 🖼️ Screenshots
-
-### Web App Interface
-![Web Interface](<img width="1875" height="912" alt="Screenshot 2025-07-26 085831" src="https://github.com/user-attachments/assets/b9be38a8-89d7-4a34-bcfb-bb92f5c5492e" />)
-
-### Evaluation Metrics Display
-![Metrics](<img width="1846" height="809" alt="Screenshot 2025-07-26 085844" src="https://github.com/user-attachments/assets/e20654e4-ae4b-4917-a3d6-c42cab5a64bf" />)
-
----
-
 ## 📦 Deployment
 
 
