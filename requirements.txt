@@ -1,9 +1,8 @@
-﻿streamlit
-tensorflow
-scikit-image
-scikit-learn
-matplotlib
-numpy
-opencv-python
-VGG16
-Model
+streamlit==1.52.2
+tensorflow==2.20.0
+numpy>=1.26,<2.5
+opencv-python==4.12.0.88
+scikit-image==0.26.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+Pillow
