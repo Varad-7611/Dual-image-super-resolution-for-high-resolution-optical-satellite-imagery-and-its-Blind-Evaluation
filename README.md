@@ -63,6 +63,12 @@ streamlit run app.py
 
 Below is a screenshot of the **Dual Image Super-Resolution Streamlit Web App**, showing image upload, processing, and high-resolution output.
 
+<img width="1895" height="917" alt="image" src="https://github.com/user-attachments/assets/f4ded741-f486-468c-9baf-f9de0aeab2a0" />
 
+---
+
+<img width="1868" height="629" alt="image" src="https://github.com/user-attachments/assets/c048a585-5648-44f1-b9f4-e3ede4f3e9e8" />
+
+---
 
 
