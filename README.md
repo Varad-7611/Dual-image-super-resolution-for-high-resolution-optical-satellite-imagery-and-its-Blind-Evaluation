@@ -30,7 +30,18 @@ This project focuses on enhancing the resolution of satellite imagery by using t
 
 ---
 
-## 📦 Deployment
+
+---
+
+## 🧠 How It Works
+
+1. **Upload images** – Two LR images of the same region.
+2. **Registration** – Align the images using feature matching.
+3. **Fusion** – Combine aligned images to maximize detail.
+4. **Super-Resolution** – SRCNN upsamples the fused result.
+5. **Evaluation** – PSNR, SSIM, MSE, RMSE, and perceptual distance using VGG.
+
+---
 
 
 ### 💻 Local Run
@@ -47,5 +58,11 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
+
+## 🖼️ Application Screenshot
+
+Below is a screenshot of the **Dual Image Super-Resolution Streamlit Web App**, showing image upload, processing, and high-resolution output.
+
+
 
 
